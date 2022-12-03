@@ -1,0 +1,3 @@
+https://matplotlib.org/
+https://numpy.org/
+https://stackoverflow.com/

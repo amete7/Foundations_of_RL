@@ -1,0 +1,5 @@
+https://coin-or.github.io/pulp/
+https://www.geeksforgeeks.org/python-linear-programming-in-pulp/
+https://stackoverflow.com/
+https://numpy.org/
+https://numpy.org/doc/stable/reference/routines.linalg.html
